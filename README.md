@@ -83,12 +83,26 @@ Implementasi Session PHP digunakan untuk membatasi akses. Pengguna yang belum lo
 * **Flexbox Layout**: Digunakan pada `main-wrapper` untuk memastikan footer tetap berada di dasar layar (*Sticky Footer*) meskipun konten halaman sangat sedikit.
 
 ---
+1. **Halaman Login**:
+<p align="center">
+<img src="img/3.png" width="70%">
+</p>
+<br>
 
-## 📸 Screenshot Hasil
-
-*(Catatan: Masukkan gambar screenshot Anda di bawah ini)*
-
-1. **Halaman Login**: (Tanpa navigasi header)
 2. **Dashboard**: (Tampilan ringkasan)
+<p align="center">
+<img src="img/0.png" width="70%">
+</p>
+<br>
+
 3. **Daftar Barang**: (Tabel lebar dengan aksi CRUD)
+<p align="center">
+<img src="img/1.png" width="70%">
+</p>
+<br>
+
 4. **Form Tambah**: (Grid layout menyamping)
+<p align="center">
+<img src="img/2.png" width="70%">
+</p>
+<br>
