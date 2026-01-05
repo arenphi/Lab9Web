@@ -89,19 +89,19 @@ Implementasi Session PHP digunakan untuk membatasi akses. Pengguna yang belum lo
 </p>
 <br>
 
-2. **Dashboard**: (Tampilan ringkasan)
+2. **Dashboard**:
 <p align="center">
 <img src="img/0.png" width="70%">
 </p>
 <br>
 
-3. **Daftar Barang**: (Tabel lebar dengan aksi CRUD)
+3. **Daftar Barang**:
 <p align="center">
 <img src="img/1.png" width="70%">
 </p>
 <br>
 
-4. **Form Tambah**: (Grid layout menyamping)
+4. **Form Tambah**:
 <p align="center">
 <img src="img/2.png" width="70%">
 </p>
